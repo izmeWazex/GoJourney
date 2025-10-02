@@ -21,6 +21,7 @@ Phase 1: Go Basics (Days 1–15)
 14. **Anagram Check** – Determine if two strings are anagrams.
 15. **Remove Duplicates** – Remove duplicates from a slice.
 
+
 Phase 2: Data Structures (Days 16–30)
 16. **Stack Implementation** – Implement stack using slice.
 17. **Queue Implementation** – Implement queue using slice.
@@ -37,6 +38,7 @@ Phase 2: Data Structures (Days 16–30)
 28. **Min Stack** – Implement a stack with getMin() in O(1).
 29. **Implement HashMap** – Create your own simple hashmap.
 30. **LRU Cache** – Implement Least Recently Used cache.
+
 
 
 Phase 3: Algorithms (Days 31–60)
@@ -72,6 +74,7 @@ Phase 3: Algorithms (Days 31–60)
 60. **Jump Game**
 
 
+
 Phase 4: Concurrency + Advanced Go (Days 61–90)
 61. **Goroutine Basics** – Launch a goroutine to print "Hello from goroutine".
 62. **Channel Basics** – Send and receive data via channel.
@@ -103,5 +106,3 @@ Phase 4: Concurrency + Advanced Go (Days 61–90)
 88. **Go + MySQL Connection**.
 89. **Go + Redis Connection**.
 90. **Build a Full Concurrency-Safe Todo App**.
-
-Do you want me to **format these into actual LeetCode-style problem statements** (with input/output examples + constraints), or keep it as a clean roadmap checklist?
